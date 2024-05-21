@@ -12,3 +12,4 @@ C:\Users\Tomás\source\repos\Curso_Net8_Blazor\PUT_Swagger_Petstore\PUT_Swagger_
 C:\Users\Tomás\source\repos\Curso_Net8_Blazor\PUT_Swagger_Petstore\PUT_Swagger_Petstore\obj\Debug\net8.0\POST_Swagger_Petstore.pdb
 C:\Users\Tomás\source\repos\Curso_Net8_Blazor\PUT_Swagger_Petstore\PUT_Swagger_Petstore\obj\Debug\net8.0\POST_Swagger_Petstore.genruntimeconfig.cache
 C:\Users\Tomás\source\repos\Curso_Net8_Blazor\PUT_Swagger_Petstore\PUT_Swagger_Petstore\obj\Debug\net8.0\ref\POST_Swagger_Petstore.dll
+C:\Users\Tomás\source\repos\Curso_Net8_Blazor\PUT_Swagger_Petstore\PUT_Swagger_Petstore\obj\Debug\net8.0\POST_Swagger_Petstore.sourcelink.json

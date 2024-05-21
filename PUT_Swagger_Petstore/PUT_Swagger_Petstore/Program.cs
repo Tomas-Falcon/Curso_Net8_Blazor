@@ -1,7 +1,4 @@
-﻿using System;
-using System.Net.Http;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text;
 
 class Program
 {
@@ -11,7 +8,7 @@ class Program
 
         string jsonBody = @"{
             ""id"": 0,
-            ""name"": ""doggie""
+            ""name"": ""Mi 1ra chamba the DOG""
         }";
 
         using (HttpClient client = new HttpClient())

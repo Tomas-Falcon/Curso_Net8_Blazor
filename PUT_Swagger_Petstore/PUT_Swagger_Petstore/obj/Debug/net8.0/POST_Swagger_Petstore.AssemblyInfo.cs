@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POST_Swagger_Petstore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8a9454b74816adc730ce5ccc9d815b38540f666")]
 [assembly: System.Reflection.AssemblyProductAttribute("POST_Swagger_Petstore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POST_Swagger_Petstore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

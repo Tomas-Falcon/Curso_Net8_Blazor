@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tom\u00E1s\\source\\repos\\Curso_Net8_Blazor\\EjercicioExepcionesPersonalizadas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50C47609-D53E-4662-A533-37B65E4B2EAB}|EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas.csproj|c:\\users\\tom\u00E1s\\source\\repos\\curso_net8_blazor\\ejercicioexepcionespersonalizadas\\ejercicioexepcionespersonalizadas\\brl\\brldemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C47609-D53E-4662-A533-37B65E4B2EAB}|EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas.csproj|solutionrelative:ejercicioexepcionespersonalizadas\\brl\\brldemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C47609-D53E-4662-A533-37B65E4B2EAB}|EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas.csproj|c:\\users\\tom\u00E1s\\source\\repos\\curso_net8_blazor\\ejercicioexepcionespersonalizadas\\ejercicioexepcionespersonalizadas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C47609-D53E-4662-A533-37B65E4B2EAB}|EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas.csproj|solutionrelative:ejercicioexepcionespersonalizadas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C47609-D53E-4662-A533-37B65E4B2EAB}|EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas.csproj|c:\\users\\tom\u00E1s\\source\\repos\\curso_net8_blazor\\ejercicioexepcionespersonalizadas\\ejercicioexepcionespersonalizadas\\dal\\customdalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C47609-D53E-4662-A533-37B65E4B2EAB}|EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas.csproj|solutionrelative:ejercicioexepcionespersonalizadas\\dal\\customdalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C47609-D53E-4662-A533-37B65E4B2EAB}|EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas.csproj|c:\\users\\tom\u00E1s\\source\\repos\\curso_net8_blazor\\ejercicioexepcionespersonalizadas\\ejercicioexepcionespersonalizadas\\wsl\\wsldemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C47609-D53E-4662-A533-37B65E4B2EAB}|EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas.csproj|solutionrelative:ejercicioexepcionespersonalizadas\\wsl\\wsldemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C47609-D53E-4662-A533-37B65E4B2EAB}|EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas.csproj|c:\\users\\tom\u00E1s\\source\\repos\\curso_net8_blazor\\ejercicioexepcionespersonalizadas\\ejercicioexepcionespersonalizadas\\brl\\custombrlexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C47609-D53E-4662-A533-37B65E4B2EAB}|EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas.csproj|solutionrelative:ejercicioexepcionespersonalizadas\\brl\\custombrlexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C47609-D53E-4662-A533-37B65E4B2EAB}|EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas.csproj|c:\\users\\tom\u00E1s\\source\\repos\\curso_net8_blazor\\ejercicioexepcionespersonalizadas\\ejercicioexepcionespersonalizadas\\dal\\daldemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C47609-D53E-4662-A533-37B65E4B2EAB}|EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas.csproj|solutionrelative:ejercicioexepcionespersonalizadas\\dal\\daldemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WSLDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\u00E1s\\source\\repos\\Curso_Net8_Blazor\\EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas\\wsl\\WSLDemo.cs",
+              "RelativeDocumentMoniker": "EjercicioExepcionesPersonalizadas\\wsl\\WSLDemo.cs",
+              "ToolTip": "C:\\Users\\Tom\u00E1s\\source\\repos\\Curso_Net8_Blazor\\EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas\\wsl\\WSLDemo.cs",
+              "RelativeToolTip": "EjercicioExepcionesPersonalizadas\\wsl\\WSLDemo.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:04:47.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomDALException.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\u00E1s\\source\\repos\\Curso_Net8_Blazor\\EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas\\dal\\CustomDALException.cs",
+              "RelativeDocumentMoniker": "EjercicioExepcionesPersonalizadas\\dal\\CustomDALException.cs",
+              "ToolTip": "C:\\Users\\Tom\u00E1s\\source\\repos\\Curso_Net8_Blazor\\EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas\\dal\\CustomDALException.cs",
+              "RelativeToolTip": "EjercicioExepcionesPersonalizadas\\dal\\CustomDALException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:44:33.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomBRLException.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\u00E1s\\source\\repos\\Curso_Net8_Blazor\\EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas\\brl\\CustomBRLException.cs",
+              "RelativeDocumentMoniker": "EjercicioExepcionesPersonalizadas\\brl\\CustomBRLException.cs",
+              "ToolTip": "C:\\Users\\Tom\u00E1s\\source\\repos\\Curso_Net8_Blazor\\EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas\\brl\\CustomBRLException.cs",
+              "RelativeToolTip": "EjercicioExepcionesPersonalizadas\\brl\\CustomBRLException.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:38:45.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DALDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\u00E1s\\source\\repos\\Curso_Net8_Blazor\\EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas\\dal\\DALDemo.cs",
+              "RelativeDocumentMoniker": "EjercicioExepcionesPersonalizadas\\dal\\DALDemo.cs",
+              "ToolTip": "C:\\Users\\Tom\u00E1s\\source\\repos\\Curso_Net8_Blazor\\EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas\\dal\\DALDemo.cs",
+              "RelativeToolTip": "EjercicioExepcionesPersonalizadas\\dal\\DALDemo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:36:40.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BRLDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\u00E1s\\source\\repos\\Curso_Net8_Blazor\\EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas\\brl\\BRLDemo.cs",
+              "RelativeDocumentMoniker": "EjercicioExepcionesPersonalizadas\\brl\\BRLDemo.cs",
+              "ToolTip": "C:\\Users\\Tom\u00E1s\\source\\repos\\Curso_Net8_Blazor\\EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas\\brl\\BRLDemo.cs",
+              "RelativeToolTip": "EjercicioExepcionesPersonalizadas\\brl\\BRLDemo.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIA0wBoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:35:53.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\u00E1s\\source\\repos\\Curso_Net8_Blazor\\EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas\\Program.cs",
+              "RelativeDocumentMoniker": "EjercicioExepcionesPersonalizadas\\Program.cs",
+              "ToolTip": "C:\\Users\\Tom\u00E1s\\source\\repos\\Curso_Net8_Blazor\\EjercicioExepcionesPersonalizadas\\EjercicioExepcionesPersonalizadas\\Program.cs",
+              "RelativeToolTip": "EjercicioExepcionesPersonalizadas\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAswD8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:33:58.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
