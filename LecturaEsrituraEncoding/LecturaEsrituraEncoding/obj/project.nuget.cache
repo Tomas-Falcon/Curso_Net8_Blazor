@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HGEh+mAbtijPWjdNLqU8TKue0eEhyhKEaCBYeEesAK5vAFBFBq9ZXbRnkIbx8i4+d+Qow0Kl8iG0lTCQAJmznw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tomás\\source\\repos\\Curso_Net8_Blazor\\LecturaEsrituraEncoding\\LecturaEsrituraEncoding\\LecturaEsrituraEncoding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tomás\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

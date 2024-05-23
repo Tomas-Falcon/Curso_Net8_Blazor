@@ -1,0 +1,15 @@
+C:\Users\Tomás\source\repos\Curso_Net8_Blazor\LecturaEsrituraEncoding\LecturaEsrituraEncoding\bin\Debug\net8.0\LecturaEsrituraEncoding.exe
+C:\Users\Tomás\source\repos\Curso_Net8_Blazor\LecturaEsrituraEncoding\LecturaEsrituraEncoding\bin\Debug\net8.0\LecturaEsrituraEncoding.deps.json
+C:\Users\Tomás\source\repos\Curso_Net8_Blazor\LecturaEsrituraEncoding\LecturaEsrituraEncoding\bin\Debug\net8.0\LecturaEsrituraEncoding.runtimeconfig.json
+C:\Users\Tomás\source\repos\Curso_Net8_Blazor\LecturaEsrituraEncoding\LecturaEsrituraEncoding\bin\Debug\net8.0\LecturaEsrituraEncoding.dll
+C:\Users\Tomás\source\repos\Curso_Net8_Blazor\LecturaEsrituraEncoding\LecturaEsrituraEncoding\bin\Debug\net8.0\LecturaEsrituraEncoding.pdb
+C:\Users\Tomás\source\repos\Curso_Net8_Blazor\LecturaEsrituraEncoding\LecturaEsrituraEncoding\obj\Debug\net8.0\LecturaEsrituraEncoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomás\source\repos\Curso_Net8_Blazor\LecturaEsrituraEncoding\LecturaEsrituraEncoding\obj\Debug\net8.0\LecturaEsrituraEncoding.AssemblyInfoInputs.cache
+C:\Users\Tomás\source\repos\Curso_Net8_Blazor\LecturaEsrituraEncoding\LecturaEsrituraEncoding\obj\Debug\net8.0\LecturaEsrituraEncoding.AssemblyInfo.cs
+C:\Users\Tomás\source\repos\Curso_Net8_Blazor\LecturaEsrituraEncoding\LecturaEsrituraEncoding\obj\Debug\net8.0\LecturaEsrituraEncoding.csproj.CoreCompileInputs.cache
+C:\Users\Tomás\source\repos\Curso_Net8_Blazor\LecturaEsrituraEncoding\LecturaEsrituraEncoding\obj\Debug\net8.0\LecturaEsrituraEncoding.sourcelink.json
+C:\Users\Tomás\source\repos\Curso_Net8_Blazor\LecturaEsrituraEncoding\LecturaEsrituraEncoding\obj\Debug\net8.0\LecturaEsrituraEncoding.dll
+C:\Users\Tomás\source\repos\Curso_Net8_Blazor\LecturaEsrituraEncoding\LecturaEsrituraEncoding\obj\Debug\net8.0\refint\LecturaEsrituraEncoding.dll
+C:\Users\Tomás\source\repos\Curso_Net8_Blazor\LecturaEsrituraEncoding\LecturaEsrituraEncoding\obj\Debug\net8.0\LecturaEsrituraEncoding.pdb
+C:\Users\Tomás\source\repos\Curso_Net8_Blazor\LecturaEsrituraEncoding\LecturaEsrituraEncoding\obj\Debug\net8.0\LecturaEsrituraEncoding.genruntimeconfig.cache
+C:\Users\Tomás\source\repos\Curso_Net8_Blazor\LecturaEsrituraEncoding\LecturaEsrituraEncoding\obj\Debug\net8.0\ref\LecturaEsrituraEncoding.dll
