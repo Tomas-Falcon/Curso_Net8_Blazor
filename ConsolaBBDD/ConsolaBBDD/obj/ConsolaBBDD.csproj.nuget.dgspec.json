@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tomás\\source\\repos\\ConsolaBBDD\\ConsolaBBDD\\ConsolaBBDD.csproj": {}
+    "C:\\Users\\Tomás\\source\\repos\\Curso_Net8_Blazor\\ConsolaBBDD\\ConsolaBBDD\\ConsolaBBDD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tomás\\source\\repos\\ConsolaBBDD\\ConsolaBBDD\\ConsolaBBDD.csproj": {
+    "C:\\Users\\Tomás\\source\\repos\\Curso_Net8_Blazor\\ConsolaBBDD\\ConsolaBBDD\\ConsolaBBDD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tomás\\source\\repos\\ConsolaBBDD\\ConsolaBBDD\\ConsolaBBDD.csproj",
+        "projectUniqueName": "C:\\Users\\Tomás\\source\\repos\\Curso_Net8_Blazor\\ConsolaBBDD\\ConsolaBBDD\\ConsolaBBDD.csproj",
         "projectName": "ConsolaBBDD",
-        "projectPath": "C:\\Users\\Tomás\\source\\repos\\ConsolaBBDD\\ConsolaBBDD\\ConsolaBBDD.csproj",
+        "projectPath": "C:\\Users\\Tomás\\source\\repos\\Curso_Net8_Blazor\\ConsolaBBDD\\ConsolaBBDD\\ConsolaBBDD.csproj",
         "packagesPath": "C:\\Users\\Tomás\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tomás\\source\\repos\\ConsolaBBDD\\ConsolaBBDD\\obj\\",
+        "outputPath": "C:\\Users\\Tomás\\source\\repos\\Curso_Net8_Blazor\\ConsolaBBDD\\ConsolaBBDD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tomás\\AppData\\Roaming\\NuGet\\NuGet.Config",

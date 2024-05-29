@@ -10,7 +10,6 @@ namespace consolebdd.Models
 {
     public class Course : IEntity
     {
-        [DatabaseGenerated(DatabaseGeneratedOption.None)]
         [Display(Name = "Number")]
         [Column("CourseID")]
         public int Id { get; set; }
