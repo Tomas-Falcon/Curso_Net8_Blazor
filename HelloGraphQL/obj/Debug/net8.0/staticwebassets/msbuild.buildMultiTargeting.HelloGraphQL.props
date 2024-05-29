@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HelloGraphQL.props" />
+</Project>
